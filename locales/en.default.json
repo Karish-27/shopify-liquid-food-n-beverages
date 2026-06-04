@@ -101,8 +101,8 @@
     }
   },
   "onboarding": {
-    "product_title": "Example product title",
-    "collection_title": "Your collection's name"
+    "product_title": "Artisan Sourdough Bread",
+    "collection_title": "Bakery & Breads"
   },
   "products": {
     "product": {
@@ -320,8 +320,8 @@
     },
     "featured_blog": {
       "view_all": "View all",
-      "onboarding_title": "Blog post",
-      "onboarding_content": "Give your customers a summary of your blog post"
+      "onboarding_title": "Recipe of the Week",
+      "onboarding_content": "Discover our chef's latest seasonal recipe, cooking tips, and food inspiration"
     },
     "featured_collection": {
       "view_all": "View all",
