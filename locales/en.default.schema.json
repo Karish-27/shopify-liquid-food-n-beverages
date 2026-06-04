@@ -473,7 +473,7 @@
           "settings": {
             "text": {
               "label": "Text",
-              "default": "Welcome to our store"
+              "default": "Free delivery on orders over $50 | Fresh food & beverages delivered daily"
             },
             "text_alignment": {
               "label": "Text alignment",
@@ -512,7 +512,7 @@
       "name": "Collage",
       "settings": {
         "heading": {
-          "default": "Multimedia collage",
+          "default": "A Feast for the Eyes",
           "label": "Heading"
         },
         "header_layout": {
@@ -605,7 +605,7 @@
       "name": "Collection list",
       "settings": {
         "title": {
-          "default": "Collections",
+          "default": "Browse Our Menu",
           "label": "Heading"
         },
          "header_layout": {
@@ -688,7 +688,7 @@
       "name": "Blog posts",
       "settings": {
         "heading": {
-          "default": "Blog posts",
+          "default": "Food Stories & Recipes",
           "label": "Heading"
         },
         "layout_header": {
@@ -732,7 +732,7 @@
         },
         "title": {
           "label": "Heading",
-          "default": "Featured collection"
+          "default": "Chef's Recommendations"
         },
         "description": {
           "label": "Description"
@@ -1014,7 +1014,7 @@
             },
             "subtext": {
               "label": "Subtext",
-              "default": "<p>Share contact information, store details, and brand content with your customers.</p>"
+              "default": "<p>Share our story, store hours, and get in touch with our culinary team.</p>"
             }
           }
         }
@@ -1025,7 +1025,7 @@
         },
         "newsletter_heading": {
           "label": "Heading",
-          "default": "Subscribe to our emails"
+          "default": "Join Our Food Community"
         },
         "header__1": {
           "content": "Email signup",
@@ -1254,7 +1254,7 @@
           "settings": {
             "heading": {
               "label": "Heading",
-              "default": "Image banner"
+              "default": "Fresh & Delicious"
             }
           }
         },
@@ -1263,7 +1263,7 @@
           "settings": {
             "text": {
               "label": "Text",
-              "default": "Give customers details about the banner image(s) or content on the template."
+              "default": "Taste the finest flavors — curated menus, artisan products, and seasonal specials await you."
             },
             "text_style": {
               "options__1": {
@@ -1417,7 +1417,7 @@
           "settings": {
             "heading": {
               "label": "Heading",
-              "default": "Image with text"
+              "default": "Our Culinary Story"
             }
           }
         },
@@ -1426,7 +1426,7 @@
           "settings": {
             "text": {
               "label": "Text",
-              "default": "Add a tagline"
+              "default": "Handcrafted with love"
             },
             "text_style": {
               "label": "Style",
@@ -1456,7 +1456,7 @@
           "settings": {
             "text": {
               "label": "Text",
-              "default": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>"
+              "default": "<p>Pair a delicious image with the story behind your dish, ingredient, or beverage. Share freshness, flavor, and passion.</p>"
             },
             "text_style": {
               "label": "Style",
@@ -1614,15 +1614,15 @@
             },
             "caption": {
               "label": "Caption",
-              "default": "Caption"
+              "default": "Daily Fresh"
             },
             "heading": {
               "label": "Heading",
-              "default": "Row"
+              "default": "From Our Kitchen"
             },
             "text": {
               "label": "Text",
-              "default": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>"
+              "default": "<p>Explore the stories behind our signature dishes and beverages. Discover the ingredients, techniques, and traditions that make every bite memorable.</p>"
             },
             "button_label": {
               "label": "Button label",
@@ -1846,7 +1846,7 @@
       "settings": {
         "title": {
           "label": "Heading",
-          "default": "Collections"
+          "default": "Our Menu Categories"
         },
         "sort": {
           "label": "Sort collections",
@@ -2054,7 +2054,7 @@
           "settings": {
             "heading": {
               "label": "Heading",
-              "default": "Collapsible row"
+              "default": "Dietary & Allergen Info"
             },
             "content": {
               "label": "Row content"
@@ -2204,7 +2204,7 @@
           "settings": {
             "link_label": {
               "label": "Link label",
-              "default": "Pop-up link text"
+              "default": "View nutrition info"
             },
             "page": {
               "label": "Page"
@@ -2227,7 +2227,7 @@
             },
             "heading": {
               "label": "Heading",
-              "default": "Pairs well with"
+              "default": "Pairs Perfectly With"
             },
             "make_collapsible_row": {
               "label": "Collapsible row"
@@ -2471,7 +2471,7 @@
       "settings": {
         "title": {
           "label": "Heading",
-          "default": "Multicolumn"
+          "default": "Why Choose Us"
         },
         "header_text": {
           "content": "Heading"
@@ -2566,11 +2566,11 @@
             },
             "title": {
               "label": "Heading",
-              "default": "Column"
+              "default": "Our Promise"
             },
             "text": {
               "label": "Description",
-              "default": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>"
+              "default": "<p>From sourcing the freshest ingredients to crafting every recipe with care, we are committed to bringing you the finest food and beverage experience.</p>"
             },
             "link_label": {
               "label": "Link label",
@@ -2602,7 +2602,7 @@
           "settings": {
             "heading": {
               "label": "Heading",
-              "default": "Subscribe to our emails"
+              "default": "Get Fresh Recipes & Offers"
             }
           }
         },
@@ -2611,7 +2611,7 @@
           "settings": {
             "paragraph": {
               "label": "Text",
-              "default": "<p>Be the first to know about new collections and exclusive offers.</p>"
+              "default": "<p>Be the first to know about new seasonal menus, exclusive recipes, and special offers.</p>"
             }
           }
         },
@@ -2729,7 +2729,7 @@
           "settings": {
             "heading": {
               "label": "Heading",
-              "default": "Opening soon"
+              "default": "Something Delicious is Coming"
             }
           }
         },
@@ -2738,7 +2738,7 @@
           "settings": {
             "paragraph": {
               "label": "Text",
-              "default": "<p>Be the first to know when we launch.</p>"
+              "default": "<p>Be the first to taste our new menu. Sign up for early access and exclusive food offers.</p>"
             },
             "text_style": {
               "options__1": {
@@ -2801,7 +2801,7 @@
         },
         "paragraph__1": {
           "content": "Related products can be managed in the [Search & Discovery app](https://help.shopify.com/manual/online-store/search-and-discovery/product-recommendations)",
-          "default": "You may also like"
+          "default": "You Might Also Enjoy"
         },
         "header__2": {
           "content": "Product card"
@@ -2876,7 +2876,7 @@
           "settings": {
             "heading": {
               "label": "Heading",
-              "default": "Talk about your brand"
+              "default": "A Passion for Great Food"
             }
           }
         },
@@ -2885,7 +2885,7 @@
           "settings": {
             "text": {
               "label": "Text",
-              "default": "Add a tagline"
+              "default": "Savoring every moment"
             },
             "text_style": {
               "label": "Style",
@@ -2915,7 +2915,7 @@
           "settings": {
             "text": {
               "label": "Text",
-              "default": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+              "default": "<p>From farm-fresh produce to artisan beverages, we bring you the very best in food and drink. Every product is carefully sourced, crafted, and delivered with flavor you can taste.</p>"
             }
           }
         },
@@ -3059,7 +3059,7 @@
           "content": "Accessibility",
           "label": "Slideshow description",
           "info": "Describe the slideshow for those using screen readers",
-          "default": "Slideshow about our brand"
+          "default": "Slideshow showcasing our food and beverages"
         }
       },
       "blocks": {
@@ -3071,14 +3071,14 @@
             },
             "heading": {
               "label": "Heading",
-              "default": "Image slide"
+              "default": "Farm to Table"
             },
             "subheading": {
               "label": "Subheading",
-              "default": "Tell your brand's story through images"
+              "default": "Fresh ingredients, passionate chefs, unforgettable flavors"
             },
             "header_button": {
-            "content": "Button"      
+            "content": "Button"
             },
             "button_label": {
               "label": "Label",
@@ -3175,7 +3175,7 @@
         },
         "heading": {
           "label": "Heading",
-          "default": "Collapsible content"
+          "default": "Frequently Asked Questions"
         },
         "heading_alignment": {
           "label": "Heading alignment",
@@ -3246,7 +3246,7 @@
           "name": "Collapsible row",
           "settings": {
             "heading": {
-              "default": "Collapsible row",
+              "default": "What are your ingredients?",
               "label": "Heading"
             },
             "row_content": {

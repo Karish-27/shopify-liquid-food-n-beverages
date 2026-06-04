@@ -107,7 +107,7 @@
                     {%- if section.settings.show_image == true -%}
                       <div class="article-card__image-wrapper card__media">
                         <div class="article-card__image media">
-                          {{ placeholder_image | placeholder_svg_tag: 'blog-placeholder-svg' }}
+                          <img src="{{ 'food-blog.jpg' | asset_url }}" alt="Food recipe blog post" loading="lazy" style="width:100%;height:100%;object-fit:cover;">
                         </div>
                       </div>
                     {%- endif -%}
